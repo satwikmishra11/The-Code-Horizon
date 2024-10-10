@@ -42,7 +42,7 @@ DB_CONNECTION_STRING=your-database-connection-string
 npm run dev
 ```
 Usage
-Input Your Skills:
+Input Your Skills:-
 
 List your programming languages, frameworks, or tools.
 For example: Python, React, TensorFlow.
@@ -59,14 +59,14 @@ We welcome contributions from the community to expand the project idea database,
 How to Contribute
 Fork the repository
 
-Create a new branch:
+Create a new branch:-
 
 bash
 Copy code
 git checkout -b feature/your-feature-name
 Make your changes
 
-Commit and push to your branch:
+Commit and push to your branch:-
 
 bash
 Copy code
@@ -74,11 +74,11 @@ git commit -m "Added new feature"
 git push origin feature/your-feature-name
 Create a pull request, and once it's reviewed, it will be merged into the main branch.
 
-License
+License:-
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-Contact
-For any questions or feedback, feel free to reach out:
+Contact:-
+For any questions or feedback, feel free to reach out:-
 
 Email:Satwikmishra46@gmail.com
 GitHub:Satwikmishra11
