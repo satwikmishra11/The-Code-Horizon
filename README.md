@@ -1,4 +1,4 @@
-# The-Code-Horizon
+# The-Code-Horizon:-
 Welcome to The-code-horizon, a project suggestion tool designed to help developers discover new and exciting project ideas based on their current skill set. Whether you're a beginner or an experienced coder, The-code-horizon will analyze your abilities and generate tailored project recommendations that can help you grow and explore new areas in programming.
 
 #Features
