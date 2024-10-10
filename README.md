@@ -21,31 +21,26 @@ Node.js (for backend)
 NPM (Node Package Manager) or Yarn
 [Other dependencies based on your stack]
 Installation
-Clone the repository:
-
-bash
-Copy code
+**Step1:-Clone the repository:**
+```bash
 git clone https://github.com/yourusername/The-code-horizon.git
-Navigate into the project directory:
-
-bash
-Copy code
+```
+**Step2:-Navigate into the project directory:**
+```bash
 cd The-code-horizon
-Install the required dependencies:
-
-bash
-Copy code
+```
+**Step3:-Install the required dependencies:**
+```bash
 npm install
-Configure your database settings in .env file (example: MongoDB connection string):
-
-bash
-Copy code
+```
+**step4:-Configure your database settings in .env file (example: MongoDB connection string):**
+```bash
 DB_CONNECTION_STRING=your-database-connection-string
-Start the development server:
-
-bash
-Copy code
+```
+**Start the development server:**
+```bash
 npm run dev
+```
 Usage
 Input Your Skills:
 
